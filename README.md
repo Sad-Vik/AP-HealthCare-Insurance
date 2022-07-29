@@ -22,9 +22,11 @@ CS244 Data Science Project
 1. Video length: 10 min
 2. A Summary pdf
 3. The slides used during the presentation
+Youtube link -https://youtu.be/hjofDH7iRh0
 ### Deliverables for End Semester:
 1. Video length: 15 min
 2. Final Report and slides
+Youtube link - https://youtu.be/6MHsvKbZ74U
 
 ### References
 - [Data Cleaning in Python: the Ultimate Guide](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d)
